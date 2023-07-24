@@ -5,11 +5,11 @@
 
 - 🏁👟 I started with an [Arcade (Executable)](https://github.com/mohitsubramaniam/Arcade.git)
 
-- 🌱 I’m currently learning **Machine Learning & Compiler Design**
-
 - 📍🏃 Then, I worked on **Password manager with a Snake game easter egg**
 
 - 📍🏃 My Latest Project was [Faculty Recommendation System](https://github.com/mohitsubramaniam/Faculty_Recommendation_System.git)
+
+- 🌱 I’m currently learning **Machine Learning & Compiler Design**
 
 - 💬 Ask me about **Fundamentals of computing (Assembly language etc.)**
 
