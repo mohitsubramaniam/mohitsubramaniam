@@ -2,7 +2,7 @@
 <h3 align="center">STUDENT | VIT CHENNAI | 2025</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohitsubramaniam&label=Profile%20views&color=0e75b6&style=flat" alt="mohitsubramaniam" />  </p>
-<img align="right" alt="Coding" height ="200" src="https://media.tenor.com/xMmwPOqFFSAAAAAC/aesthetic-typing.gif">
+<img align="right" alt="Coding" height ="300" src="https://media.tenor.com/xMmwPOqFFSAAAAAC/aesthetic-typing.gif">
 
 - 🏁👟 I started with an [Arcade (Executable)](https://github.com/mohitsubramaniam/Arcade.git)
 
