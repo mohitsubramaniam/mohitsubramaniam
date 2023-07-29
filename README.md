@@ -7,11 +7,11 @@
 
 - 🏁👟 I started with an [Arcade (Executable)](https://github.com/mohitsubramaniam/Arcade.git)
 
-- 📍🏃 Then, I worked on **Password manager with a Snake game easter egg**
+- 📍🏃 Then, I worked on [Password manager with a Snake game easter egg](https://github.com/mohitsubramaniam/Password_Manager.git)
 
 - 📍🏃 My Latest Project was [Faculty Recommendation System](https://github.com/mohitsubramaniam/Faculty_Recommendation_System.git)
 
-- 🌱 I’m currently learning **Machine Learning & Compiler Design**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Fundamentals of computing (Assembly language etc.)**
 
